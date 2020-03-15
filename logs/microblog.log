@@ -40,3 +40,5 @@ Traceback (most recent call last):
     raise BuildError(endpoint, values, method, self)
 werkzeug.routing.BuildError: Could not build url for endpoint 'reset_password' with values ['token']. Did you mean 'auth.reset_password' instead?
 2020-02-27 00:51:18,787 INFO: Microblog startup [in /home/atropscooper/Projects/microblog/app/__init__.py:68]
+2020-03-14 18:20:34,450 INFO: Microblog startup [in /home/atrops/microblog/app/__init__.py:68]
+2020-03-14 18:20:34,452 INFO: Microblog startup [in /home/atrops/microblog/app/__init__.py:68]
